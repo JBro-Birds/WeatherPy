@@ -11,15 +11,15 @@ The purpose of this project is to add the weather description to the weather dat
 ### The Addition of Weather Data and Multi-City Itineraries
 Adding the enhancements provides the customer with the ability to search for travel experiences and itineraries with their preffered weather applied.  Examples of the enhanced customer search and filtering functionality are as follows:
 
-Map with weather information provided:
+Map with weather information provided based on customer filter:
 
 ![WeatherPy_vacation_map](https://raw.githubusercontent.com/JBro-Birds/WeatherPy/master/Vacation_Search/WeatherPy_vacation_map.png)
 
-Map with multi-city travel itinerary:
+Map with multi-city travel itinerary based on customer filter:
 
-![WeatherPy_travel_map](https://raw.githubusercontent.com/JBro-Birds/WeatherPy/master/Vacation_Itineray/WeatherPy_travel_map.png)
+![WeatherPy_travel_map](https://raw.githubusercontent.com/JBro-Birds/WeatherPy/master/Vacation_Itinerary/WeatherPy_travel_map.png)
 
-Map with multi-city travel itinerary and travel markers:
+Map with multi-city travel itinerary and travel markers based on customer filter:
 
-![WeatherPy_travel_map_markers](https://raw.githubusercontent.com/JBro-Birds/WeatherPy/master/Vacation_Itineray/WeatherPy_travel_map_markers.png)
+![WeatherPy_travel_map_markers](https://raw.githubusercontent.com/JBro-Birds/WeatherPy/master/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
 
