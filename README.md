@@ -19,7 +19,7 @@ Map with multi-city travel itinerary:
 
 ![WeatherPy_travel_map](https://raw.githubusercontent.com/JBro-Birds/PyBer_Analysis/master/Vacation_Itineray/WeatherPy_travel_map.png)
 
-Map with multi-city travel itinerary:
+Map with multi-city travel itinerary and travel markers:
 
-![WeatherPy_travel_map](https://raw.githubusercontent.com/JBro-Birds/PyBer_Analysis/master/Vacation_Itineray/WeatherPy_travel_map.png)
+![WeatherPy_travel_map_markers](https://raw.githubusercontent.com/JBro-Birds/PyBer_Analysis/master/Vacation_Itineray/WeatherPy_travel_map_markers.png)
 
