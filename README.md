@@ -13,13 +13,13 @@ Adding the enhancements provides the customer with the ability to search for tra
 
 Map with weather information provided:
 
-![WeatherPy_vacation_map](https://raw.githubusercontent.com/JBro-Birds/PyBer_Analysis/Vacation_Search/WeatherPy_vacation_map.png)
+![WeatherPy_vacation_map](https://raw.githubusercontent.com/JBro-Birds/WeatherPy/master/Vacation_Search/WeatherPy_vacation_map.png)
 
 Map with multi-city travel itinerary:
 
-![WeatherPy_travel_map](https://raw.githubusercontent.com/JBro-Birds/PyBer_Analysis/master/Vacation_Itineray/WeatherPy_travel_map.png)
+![WeatherPy_travel_map](https://raw.githubusercontent.com/JBro-Birds/WeatherPy/master/Vacation_Itineray/WeatherPy_travel_map.png)
 
 Map with multi-city travel itinerary and travel markers:
 
-![WeatherPy_travel_map_markers](https://raw.githubusercontent.com/JBro-Birds/PyBer_Analysis/master/Vacation_Itineray/WeatherPy_travel_map_markers.png)
+![WeatherPy_travel_map_markers](https://raw.githubusercontent.com/JBro-Birds/WeatherPy/master/Vacation_Itineray/WeatherPy_travel_map_markers.png)
 
