@@ -11,9 +11,15 @@ The purpose of this project is to add the weather description to the weather dat
 ### The Addition of Weather Data
 There are three ride-share areas, urban, suburban and rural.  As would be expected number of rides and total fares are highest in the urban area as the population and ride-share demand is highest and the lowest number of rides and fares are in the rural area.  The suburban area falls in the middle.  A concern from a business standpoint is the disproportionate number of drivers in the urban area based on ride-share demand and compared to the other two areas.  This in turn results in a much lower average fare per driver in the urban area compared to the other two regions.  The results are as follows:
 
+Map with weather information provided:
+
 ![WeatherPy_vacation_map](https://raw.githubusercontent.com/JBro-Birds/PyBer_Analysis/master/Vacation_Search/WeatherPy_vacation_map.png)
 
-Total Fare by City Type Line Chart:
+Map with multi-city travel itinerary:
 
-![Total_Fare_By_City_Type_Line_Chart](https://raw.githubusercontent.com/JBro-Birds/PyBer_Analysis/master/analysis/Total_Fare_By_City_Type_Line_Chart.png)
+![WeatherPy_travel_map](https://raw.githubusercontent.com/JBro-Birds/PyBer_Analysis/master/Vacation_Itineray/WeatherPy_travel_map.png)
+
+Map with multi-city travel itinerary:
+
+![WeatherPy_travel_map](https://raw.githubusercontent.com/JBro-Birds/PyBer_Analysis/master/Vacation_Itineray/WeatherPy_travel_map.png)
 
