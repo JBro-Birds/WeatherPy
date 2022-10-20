@@ -8,8 +8,8 @@ The purpose of this project is to add the weather description to the weather dat
 
 ## Summary
 
-### The Addition of Weather Data
-There are three ride-share areas, urban, suburban and rural.  As would be expected number of rides and total fares are highest in the urban area as the population and ride-share demand is highest and the lowest number of rides and fares are in the rural area.  The suburban area falls in the middle.  A concern from a business standpoint is the disproportionate number of drivers in the urban area based on ride-share demand and compared to the other two areas.  This in turn results in a much lower average fare per driver in the urban area compared to the other two regions.  The results are as follows:
+### The Addition of Weather Data and Multi-City Itineraries
+Adding the enhancements provides the customer with the ability to search for travel experiences and itineraries with their preffered weather applied.  Examples of the enhanced customer search and filtering functionality are as follows:
 
 Map with weather information provided:
 
